@@ -1,0 +1,98 @@
+
+*{
+    margin: 0;
+}
+
+body{
+    background:linear-gradient(45deg,green,red,yellowgreen)
+}
+
+#header{
+
+    background-color: black;
+    height: 70px;
+}
+#brand{
+
+     /* background-color:red;  */
+    width: 40%;
+    float: left;
+    color: white;
+    line-height: 60px;
+    
+}
+a{
+ color: cornsilk;
+ text-decoration: none;
+ margin-right: 12px;
+
+}
+#menu{
+
+    
+    width:60%;
+    text-align: center;
+    float: right;
+    line-height: 70px;
+}
+
+#head{
+text-align:center;
+line-height: 70px;
+
+}
+
+#dp{
+
+    color: cornsilk;
+    background-color: rgb(19, 9, 9);
+    width: 40%;
+    text-align: center;
+    
+    padding: 10px;
+    margin: 10px auto;
+    line-height: 50px;
+    border-radius: 50%;
+}
+
+table{
+    width: 100%;
+    text-align: center;
+}
+img{
+border-radius: 30px;
+box-shadow: black;
+
+}
+
+#bg{
+
+    background-color: rgb(19, 9, 9);
+    color: cornsilk;
+    width: 40%;
+    line-height: 50px;
+    text-align: center;
+    border-radius: 50%;
+    padding: 10px;
+    margin: 10px auto;
+}
+
+#fr{
+    background-color: rgb(19, 9, 9);
+    color: cornsilk;
+    line-height: 50px;
+    width: 40%;
+    text-align: center;
+    margin: 10px auto;
+    border-radius: 50%;
+    padding: 10px;
+}
+
+#footer{
+    text-align: center;
+    background-color: black;
+    color: white;
+    margin-top: 20px;
+    line-height: 30px;
+    margin-bottom: 5px;
+}
